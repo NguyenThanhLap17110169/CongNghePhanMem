@@ -1,6 +1,2 @@
 Nguyễn Thanh Lập
-<<<<<<< HEAD
-222
-=======
-111
->>>>>>> 4abc5e7d6ca7d5a9e5cdc07bd8fd8bfdac5aa1fc
+22222
