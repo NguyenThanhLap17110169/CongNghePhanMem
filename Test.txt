@@ -1,6 +1,2 @@
 Nguyễn Thanh Lập
-<<<<<<< HEAD
 222
-=======
-111
->>>>>>> 0f85ab156bf7ab5c44bf2b818e2845d653bf782e
